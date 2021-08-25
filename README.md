@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Aritra-Basak
-- 👀 I’m interested in Java 
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - basakaritra10@gmail.com
+[README.md](https://github.com/Aritra-Basak/Aritra-Basak/files/7045849/README.md)
+
 
 <!---
 Aritra-Basak/Aritra-Basak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

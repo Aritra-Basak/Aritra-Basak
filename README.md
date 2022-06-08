@@ -18,5 +18,5 @@
 
 [website]: https://github.com/Aritra-Basak/Aritra-Basak
 [twitter]: https://mobile.twitter.com/im_aritra10
-[instagram]: https://www.instagram.com/im_aritra.10/
-[linkedin]: https://www.linkedin.com/in/aritra-basak-ab5b12148?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRPuClJRGSAaV7aceLyQNjg%3D%3D
+[instagram]: https://www.instagram.com/mr._.aritra
+[linkedin]: https://www.linkedin.com/in/aritra-basak-java-web-dev

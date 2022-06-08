@@ -8,6 +8,7 @@
 - 👯 I’m always looking for a better version of myself.
 - ⚡ Fun fact: I love to hang out with friends and play games at free time.
 
+<h4>Want to know me more?</h4>
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]

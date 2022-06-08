@@ -1,5 +1,5 @@
  <h1>Hi there, I'm Aritra Basak 👋</h1>
-I'm a Student,Coder,Developer and a Designer!!
+<h2>I'm a Student,Coder,Developer and a Designer!!</h2>
 More precisely --> <h2> Seasoned and independent Web Developer, blending the art of design with programming skills to deliver an immersive and engaging user experience through efficient website development. A self- taught Java programmer with a 5-star rating in Hacker Rank. A firm believer in learning through experience.</h2>
 
 - 🌱 I’m currently learning everything 🤣

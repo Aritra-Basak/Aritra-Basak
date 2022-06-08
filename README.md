@@ -1,4 +1,4 @@
-### Hi there, I'm Aritra Basak 👋
+### <h1>Hi there, I'm Aritra Basak 👋</h1>
 
 ## I'm a Student,Coder,Developer and a Designer!!
 ## More precisely --> <h2> Seasoned and independent Web Developer, blending the art of design with programming skills to deliver an immersive and engaging user experience through efficient website development. A self- taught Java programmer with a 5-star rating in Hacker Rank. A firm believer in learning through experience.</h2>
@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 Goal:To become a professional Full Stack Web Developer.
 - 👯 I’m always looking for a better version of myself.
-- {.} Seasoned and Independent JAVA progammer.
 - ⚡ Fun fact: I love to hang out with friends and play games at free time.
 
 ### Connect with me:

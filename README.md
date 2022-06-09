@@ -25,4 +25,4 @@ More precisely --> <h2> Seasoned and independent Web Developer, blending the art
 <em><a href="https://drive.google.com/file/d/1yMhLw086vtCgcmXLDa6WD9mRv4E-7TwI/view?usp=sharing" target="_main">Resume</a></em>
 <br>
 
-![coding wallpaper 005 - 1600x1200-768x576](https://user-images.githubusercontent.com/85905308/172953561-1ff4630f-6a99-49cc-b612-04d736600b6f.png)
+![coding wallpaper 005 - 1600x1200](https://user-images.githubusercontent.com/85905308/172953647-06eeccfa-169e-4f1f-a36f-e0f2ad25ee28.png)

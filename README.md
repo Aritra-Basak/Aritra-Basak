@@ -22,4 +22,7 @@ More precisely --> <h2> Seasoned and independent Web Developer, blending the art
 [instagram]: https://www.instagram.com/mr._.aritra
 [linkedin]: https://www.linkedin.com/in/aritra-basak-java-web-dev
 <br>
-<em><a href="https://drive.google.com/file/d/1yMhLw086vtCgcmXLDa6WD9mRv4E-7TwI/view?usp=sharing">Resume</a></em>
+<em><a href="https://drive.google.com/file/d/1yMhLw086vtCgcmXLDa6WD9mRv4E-7TwI/view?usp=sharing" target="_main">Resume</a></em>
+<br>
+
+![coding wallpaper 005 - 1600x1200-768x576](https://user-images.githubusercontent.com/85905308/172953561-1ff4630f-6a99-49cc-b612-04d736600b6f.png)

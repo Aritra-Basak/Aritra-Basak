@@ -21,3 +21,4 @@ More precisely --> <h2> Seasoned and independent Web Developer, blending the art
 [twitter]: https://mobile.twitter.com/im_aritra10
 [instagram]: https://www.instagram.com/mr._.aritra
 [linkedin]: https://www.linkedin.com/in/aritra-basak-java-web-dev
+<a href="https://drive.google.com/file/d/1yMhLw086vtCgcmXLDa6WD9mRv4E-7TwI/view?usp=sharing" target="_blank">Resume</a>

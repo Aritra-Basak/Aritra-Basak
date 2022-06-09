@@ -1,4 +1,4 @@
- <h1>Hi there, I'm Aritra Basak 👋</h1>
+ <h1>Hi there, I'm <strong>Aritra Basak</strong> 👋</h1>
 <h2>I'm a Student,Coder,Developer and a Designer!!</h2>
 More precisely --> <h2> Seasoned and independent Web Developer, blending the art of design with programming skills to deliver an immersive and engaging user experience through efficient website development. A self- taught Java programmer with a 5-star rating in Hacker Rank. A firm believer in learning through experience.</h2>
 
@@ -21,4 +21,5 @@ More precisely --> <h2> Seasoned and independent Web Developer, blending the art
 [twitter]: https://mobile.twitter.com/im_aritra10
 [instagram]: https://www.instagram.com/mr._.aritra
 [linkedin]: https://www.linkedin.com/in/aritra-basak-java-web-dev
-<a href="https://drive.google.com/file/d/1yMhLw086vtCgcmXLDa6WD9mRv4E-7TwI/view?usp=sharing" target="_blank">Resume</a>
+<br>
+<strong><a href="https://drive.google.com/file/d/1yMhLw086vtCgcmXLDa6WD9mRv4E-7TwI/view?usp=sharing" target="_blank">Resume</a></strong>

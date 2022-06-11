@@ -1,8 +1,9 @@
 ![hello-there-hi](https://user-images.githubusercontent.com/85905308/173204821-9d6a16a5-1592-44dc-8911-b98ac33ef4d0.gif)
-<h1> Hi there, I'm Aritra Basak </h1> 
+<h1 align="center"> Hi there, I'm Aritra Basak </h1> 
  <br>                                
-<h2>I'm a Student,Coder,Developer and a Designer!!</h2>
-More precisely --> <h2> Seasoned and independent Web Developer, blending the art of design with programming skills to deliver an immersive and engaging user experience through efficient website development. A self- taught Java programmer with a 5-star rating in Hacker Rank. A firm believer in learning through experience.</h2>
+<h2 align="center">I'm a Student,Coder,Developer and a Designer!!</h2>
+<h3 align='center'>{More precisely}</h3>
+<h2> Seasoned and independent Web Developer, blending the art of design with programming skills to deliver an immersive and engaging user experience through efficient website development. A self- taught Java programmer with a 5-star rating in Hacker Rank. A firm believer in learning through experience.</h2>
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 Goal:To become a professional Full Stack Web Developer.

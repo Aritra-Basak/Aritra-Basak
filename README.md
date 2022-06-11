@@ -25,7 +25,7 @@
 [instagram]: https://www.instagram.com/mr._.aritra
 [linkedin]: https://www.linkedin.com/in/aritra-basak-java-web-dev
 <br>
-<em><a href="https://drive.google.com/file/d/1yMhLw086vtCgcmXLDa6WD9mRv4E-7TwI/view?usp=sharing" target="_main">Resume</a></em>
+<em><a href="https://drive.google.com/file/d/1yMhLw086vtCgcmXLDa6WD9mRv4E-7TwI/view?usp=sharing" target="_blank">Resume</a></em>
 <br>
 
 ![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://user-images.githubusercontent.com/85905308/173204346-e074deef-34df-4d1a-85c5-c828792bd949.gif)

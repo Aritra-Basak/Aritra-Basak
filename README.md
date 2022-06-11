@@ -25,4 +25,5 @@ More precisely --> <h2> Seasoned and independent Web Developer, blending the art
 <em><a href="https://drive.google.com/file/d/1yMhLw086vtCgcmXLDa6WD9mRv4E-7TwI/view?usp=sharing" target="_main">Resume</a></em>
 <br>
 
-![coding wallpaper 005 - 1600x1200](https://user-images.githubusercontent.com/85905308/172953647-06eeccfa-169e-4f1f-a36f-e0f2ad25ee28.png)
+![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://user-images.githubusercontent.com/85905308/173204346-e074deef-34df-4d1a-85c5-c828792bd949.gif)
+

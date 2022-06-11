@@ -4,8 +4,8 @@ More precisely --> <h2> Seasoned and independent Web Developer, blending the art
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 Goal:To become a professional Full Stack Web Developer.
-- 👯 I’m always looking for a better version of myself.
-- ⚡ Fun fact: I love to hang out with friends and play games at free time.
+- ⚡ I'm always looking for a better version of myself.
+- 👯 Fun fact: I love to hang out with friends and play games at free time.
 
 <h4>Want to know me more?</h4>
 <h4>Connect with me:</h4>

@@ -35,15 +35,16 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br >
+<br>
 
 [website]: https://aritra-basak.github.io/Main/Portfolio/index.html
 [twitter]: https://mobile.twitter.com/im_aritra10
 [instagram]: https://www.instagram.com/mr._.aritra
 [linkedin]: https://www.linkedin.com/in/aritra-basak-java-web-dev
-<br>
 
-<em><a href="https://drive.google.com/file/d/1yMhLw086vtCgcmXLDa6WD9mRv4E-7TwI/view?usp=sharing" target="_blank">Resume</a></em>
+<br> 
+
+<a href="https://drive.google.com/file/d/1yMhLw086vtCgcmXLDa6WD9mRv4E-7TwI/view?usp=sharing" target="_blank">Resume</a>
 
 <br>
 <div align="center"><img width="175px" src="https://github.com/Aritra-Basak/QR_scan/blob/main/qrcode_aritra-basak.github.io.png" />
@@ -51,5 +52,5 @@
 </div>
 <br>
 
-![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://user-images.githubusercontent.com/85905308/173204346-e074deef-34df-4d1a-85c5-c828792bd949.gif)
+<div align="center"> <img src="https://github.com/Aritra-Basak/Repo_items/blob/main/coding.gif" /> </div>
 

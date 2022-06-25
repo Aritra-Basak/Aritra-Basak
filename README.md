@@ -51,6 +51,6 @@
   <h4>Scan and Enjoy</h4>
 </div>
 <br>
-
+<div align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=aritra-basak&" alt="aritra-basak" /></div>
 <div align="center"> <img src="https://github.com/Aritra-Basak/Repo_items/blob/main/coding.gif" /> </div>
 

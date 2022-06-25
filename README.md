@@ -45,6 +45,10 @@
 <em><a href="https://drive.google.com/file/d/1yMhLw086vtCgcmXLDa6WD9mRv4E-7TwI/view?usp=sharing" target="_blank">Resume</a></em>
 
 <br>
+<div align="center"><img width="175px" src="https://github.com/Aritra-Basak/QR_scan/blob/main/qrcode_aritra-basak.github.io.png" />
+  <h4>Scan and Enjoy</h4>
+</div>
+<br>
 
 ![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://user-images.githubusercontent.com/85905308/173204346-e074deef-34df-4d1a-85c5-c828792bd949.gif)
 

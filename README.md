@@ -52,5 +52,8 @@
 </div>
 <br>
 <div align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=aritra-basak&" alt="aritra-basak" /></div>
+<br>
+<div align="center"> <img src="https://readme-jokes.vercel.app/api?hideBorder"alt="Jokes Card"/> </div>
+
 <div align="center"> <img src="https://github.com/Aritra-Basak/Repo_items/blob/main/coding.gif" /> </div>
 

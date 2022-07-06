@@ -55,6 +55,7 @@
 <br>
 
 <div align="center"><i>Random dev joke for you!</i><br> <img src="https://readme-jokes.vercel.app/api?hideBorder"alt="Jokes Card"/> </div>
+<br>
 
 <div align="center"> <img src="https://github.com/Aritra-Basak/Repo_items/blob/main/coding.gif" /> </div>
 

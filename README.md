@@ -42,11 +42,8 @@
 [instagram]: https://www.instagram.com/mr._.aritra
 [linkedin]: https://www.linkedin.com/in/aritra-basak-java-web-dev
 
-<br> 
-
-<a href="https://drive.google.com/file/d/1yMhLw086vtCgcmXLDa6WD9mRv4E-7TwI/view?usp=sharing" target="_blank">Resume</a>
-
 <br>
+
 <div align="center"><img width="175px" src="https://github.com/Aritra-Basak/QR_scan/blob/main/qrcode_aritra-basak.github.io.png" />
   <h4>" Scan and Have a Look at it. "</h4>
 </div>

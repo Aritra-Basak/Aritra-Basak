@@ -44,9 +44,7 @@
 
 <br>
 
-<div align="center"><img width="175px" src="https://github.com/Aritra-Basak/QR_scan/blob/main/qrcode_aritra-basak.github.io.png" />
-  <h4>" Scan and Have a Look at it. "</h4>
-</div>
+
 <br>
 <div align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=aritra-basak&" alt="aritra-basak" /></div>
 <br>

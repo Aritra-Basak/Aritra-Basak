@@ -31,7 +31,7 @@
 <h4>Connect with me:</h4>
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<a href="https://twitter.com/intent/follow?screen_name=im_aritra10" target="blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/im_aritra10?style=social">
+<a href="https://twitter.com/im_aritra10" target="blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/im_aritra10?style=social">
   
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]

@@ -54,3 +54,8 @@
 
 <div align="center"> <img src="https://github.com/Aritra-Basak/Repo_items/blob/main/coding.gif" /> </div>
 
+<a href=#><img src="contributions.svg"></a>
+
+
+
+

@@ -34,17 +34,12 @@
 <a href="https://twitter.com/im_aritra10" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 <a href="https://www.hackerrank.com/basakaritra10" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
 <a href="https://www.instagram.com/the_chemical_cocktail/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> 
+<a href="https://open.spotify.com/playlist/5rosPkkxL8R6vQXqFm3n8M?si=89c1731a378f4e4e&nd=1" target="_blank"> <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /> 
   
 
 
-<br>
-
-[website]: https://aritra-basak.github.io/Main/Portfolio/index.html
-[instagram]: https://www.instagram.com/mr._.aritra
-[linkedin]: https://www.linkedin.com/in/aritra-basak-java-web-dev
 
 
-<br>
 
 
 <br>

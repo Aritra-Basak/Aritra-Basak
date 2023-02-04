@@ -40,7 +40,7 @@
 <br>
 
 [website]: https://aritra-basak.github.io/Main/Portfolio/index.html
-[Twitter Follow]:[https://twitter.com/im_aritra10](https://twitter.com/intent/follow?screen_name=im_aritra10)
+
 [instagram]: https://www.instagram.com/mr._.aritra
 [linkedin]: https://www.linkedin.com/in/aritra-basak-java-web-dev
 

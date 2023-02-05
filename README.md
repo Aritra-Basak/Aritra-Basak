@@ -8,13 +8,15 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 Goal:To become a professional Software Developer.
 - ⚡ I'm always looking for a better version of myself.
+- 💻 Intern in EY India.
 - 👯 Fun fact: I love to hang out with friends and play games at free time.
+
 <br>
 
 <div align="center">
   
  <h3> :hammer_and_wrench: Languages & Tools :</h3>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="35" height="35"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="45" height="55"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="35" height="35"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="35" height="35"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="tailwind" alt="tailwind" width="70" height="60"/>&nbsp;
@@ -49,9 +51,9 @@
 <div align="center"><i>Random dev joke for you!</i><br> <img src="https://readme-jokes.vercel.app/api?hideBorder"alt="Jokes Card"/> </div>
 <br>
 
-<div align="center"> <img src="https://github.com/Aritra-Basak/Repo_items/blob/main/coding.gif" /> </div>
+<div align="center"> <img src="https://github.com/Aritra-Basak/Repo_items/blob/main/coding.gif" /> <br>
 
-<a href=#><img src="contributions.svg"></a>
+  <a href=# ><img src="contributions.svg"></a> </div>
 
 
 

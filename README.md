@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 Goal:To become a professional Software Developer.
 - ⚡ I'm always looking for a better version of myself.
-- 💻 Intern as a Developer in EY India.
+- 💻 Intern in EY India.
 - 👯 Fun fact: I love to hang out with friends and play games at free time.
 
 <br>

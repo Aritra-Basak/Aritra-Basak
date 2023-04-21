@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 Goal:To become a professional Software Developer.
 - ⚡ I'm always looking for a better version of myself.
-- 💻 Intern in EY India.
+- 💻 Intern in EY .
 - 👯 Fun fact: I love to hang out with friends and play games at free time.
 
 <br>
@@ -18,7 +18,7 @@
   
  <h3> :hammer_and_wrench: Languages & Tools :</h3>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="45" height="55"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="45" height="60"/>&nbsp;     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt= "boots" width="35" height="35"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="45" height="35"/>&nbsp;     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt= "boots" width="35" height="35"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt= "boots" width="35" height="35"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="35" height="35"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="35" height="35"/>&nbsp;

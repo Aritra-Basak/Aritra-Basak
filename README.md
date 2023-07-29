@@ -1,7 +1,7 @@
 <div align="center" > <img  src="https://github.com/Aritra-Basak/Repo_items/blob/main/hello-there-hi.gif" /> </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aritra-basak&label=Profile%20views&color=0e75b6&style=flat" alt="aritra-basak" /> </p>
 <h1 align="center"> Hi there, I'm Aritra Basak </h1> 
-<h2 align="center">I'm a Student, Coder, Developer and a Designer!!</h2>
+<h2 align="center">I'm a Student, Coder, Developer, and Designer!!</h2>
 <h3 align='center'>{More precisely}</h3>
 <h2> Seasoned and independent Web Developer, blending the art of design with programming skills to deliver an immersive and engaging user experience through efficient website development. A self-taught Java Programmer with a 5-Star HackerRank Rating. A Spring Developer passionate about crafting efficient and robust code for scalable applications. A firm believer in learning through experience.
 </h2>
@@ -9,23 +9,28 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 Goal: To become a professional Software Developer.
 - ⚡ I'm always looking for a better version of myself.
-- 💻 Full Stack Java Developer in EY .
-- 👯 Fun fact: I love to hang out with friends and play games at free time.
+- 💻 Full Stack Java Developer in EY.
+- 👯 I love to hang out with friends and play games in free time.
 
 <br>
 
 <div align="center">
   
  <h3> :hammer_and_wrench: Languages & Tools :</h3>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="45" height="55"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="45" height="35"/>&nbsp;   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt= "boots" width="35" height="35"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt= "boots" width="35" height="35"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="35" height="35"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="35" height="35"/>&nbsp;
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" title="tailwind" alt="tailwind" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="35" height="30"/>&nbsp;
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" title="eclipse" alt="eclipse"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySql" alt="MySql" width="65" height="50"/>&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" title="Java" alt="Java" width="45" height="55"/>&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" title="Spring_Boot" alt="Spring_Boot" width="45" height="55"/>&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" title="React_Js" alt="React_Js" width="45" height="55"/>&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" alt="HTML5" width="45" height="55"/>&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="CSS3" alt="CSS3" width="45" height="55"/>&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" title="BootsTrap" alt="BootsTrap" width="45" height="55"/>&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" title="TailwindCss" alt="TailwindCss" width="45" height="55"/>&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="45" height="55"/>&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" title="MongoDB" alt="MongoDB" width="45" height="55"/>&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" title="MySQL" alt="MySQL" width="45" height="55"/>&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" title="Postman" alt="Postman" width="45" height="55"/>&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" title="Eclipse" alt="Eclipse" width="45" height="55"/>&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VsCode" alt="VsCode" width="45" height="55"/>&nbsp;
+
 
 
 </div>

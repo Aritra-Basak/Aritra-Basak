@@ -55,6 +55,11 @@
 <br>
 <div align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=aritra-basak&" alt="aritra-basak" /></div>
 <br>
+<div align="center">
+  <h4>Github Stats ⚡</h4>
+
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aritra-Basak&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</div>
 
 <div align="center"><i>Random dev joke for you!</i><br> <img src="https://readme-jokes.vercel.app/api?hideBorder"alt="Jokes Card"/> </div>
 <br>

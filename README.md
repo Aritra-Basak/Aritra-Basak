@@ -1,7 +1,7 @@
 <div align="center" > <img  src="https://github.com/Aritra-Basak/Repo_items/blob/main/hello-there-hi.gif" /> </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aritra-basak&label=Profile%20views&color=0e75b6&style=flat" alt="aritra-basak" /> </p>
 <h1 align="center"> Hi there, I'm Aritra Basak </h1> 
-<h2 align="center">I'm a Student, Coder, Developer, and Designer!!</h2>
+<h2 align="center">I'm a Coder, Developer, and Designer!!</h2>
 <h3 align='center'>{More precisely}</h3>
 <h2> Seasoned and independent Web Developer, blending the art of design with programming skills to deliver an immersive and engaging user experience through efficient website development. A self-taught Java Programmer with a 5-Star HackerRank Rating. A Spring Developer passionate about crafting efficient and robust code for scalable applications. A firm believer in learning through experience.
 </h2>
@@ -10,7 +10,7 @@
 - 🥅 Goal: To become a professional Software Developer.
 - ⚡ I'm always looking for a better version of myself.
 - 💻 Full Stack Java Developer in EY.
-- 👯 I love to hang out with friends and play games in free time.
+- 👯 I love to hang out with friends and play games in my free time.
 
 <br>
 

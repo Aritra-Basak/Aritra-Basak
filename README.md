@@ -3,7 +3,7 @@
 <h1 align="center"> Hi there, I'm Aritra Basak </h1> 
 <h2 align="center">I'm a Coder, Developer, and Designer!!</h2>
 <h3 align='center'>{More precisely}</h3>
-<h2> Seasoned and independent Web Developer, blending the art of design with programming skills to deliver an immersive and engaging user experience through efficient website development. A self-taught Java Programmer with a 5-Star HackerRank Rating. A Spring Developer passionate about crafting efficient and robust code for scalable applications. A firm believer in learning through experience.
+<h2> Seasoned and independent Web Developer, blending the art of design with programming skills to deliver an immersive and engaging user experience through efficient website development. A self-taught Java Programmer with a 5-Star HackerRank Rating. A Spring Boot Developer passionate about crafting efficient and robust code for scalable applications. A firm believer in learning through experience.
 </h2>
 
 - 🌱 I’m currently learning everything 🤣

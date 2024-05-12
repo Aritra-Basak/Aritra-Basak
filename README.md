@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 Goal: To become a professional Software Developer.
 - ⚡ I'm always looking for a better version of myself.
-- 💻 Full Stack Java Developer in EY.
+- 💻 Full Stack Developer in EY.
 - 👯 I love to hang out with friends and play games in my free time.
 
 <br>

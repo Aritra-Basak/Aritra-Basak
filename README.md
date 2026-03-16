@@ -22,8 +22,7 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" title="Spring_Boot" alt="Spring_Boot" width="45" height="55"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" title="GraphQL" alt="React_Js" width="45" height="55"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" title="React_Js" alt="React_Js" width="45" height="55"/>&nbsp;
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" alt="HTML5" width="45" height="55"/>&nbsp;
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="CSS3" alt="CSS3" width="45" height="55"/>&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" title="AWS" alt="AWS" width="45" height="55"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" title="BootsTrap" alt="BootsTrap" width="45" height="55"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" title="TailwindCss" alt="TailwindCss" width="45" height="55"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="45" height="55"/>&nbsp;

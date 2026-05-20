@@ -1,17 +1,40 @@
-<div align="center" > <img  src="https://github.com/Aritra-Basak/Repo_items/blob/main/hello-there-hi.gif" /> </div>
+<div align="center"> <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" /> </div><br>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aritra-basak&label=Profile%20views&color=0e75b6&style=flat" alt="aritra-basak" /> </p>
-<h1 align="center"> Hi there, I'm Aritra Basak </h1> 
-<h2 align="center">I'm a Coder, Developer, and Designer!!</h2>
+<h1 align="center"> Hi there, I'm Aritra Basak 👋 </h1> 
+<h2 align="center">Backend Engineer | Java & Spring Boot Ecosystem Specialist</h2>
 <h3 align='center'>{More precisely}</h3>
-<h2> Seasoned and independent Web Developer, blending the art of design with programming skills to deliver an immersive and engaging user experience through efficient website development. A self-taught Java Programmer with a 5-Star HackerRank Rating. A Spring Boot Developer passionate about crafting efficient and robust code for scalable applications. A firm believer in learning through experience.
+<h2> Seasoned Software Developer with a proven track record of engineering scalable backend infrastructures and intelligent, AI-driven applications. Blending precise system design with modern framework optimization, I specialize in building high-throughput REST/GraphQL APIs, handling complex database concurrency (ACID compliance), and implementing autonomous multi-agent RAG pipelines from the ground up. A firm believer in learning through experience.
 </h2>
 
-- 🌱 I’m currently learning everything 🤣
+- 💼 Current Role: Full Stack Developer at EY (Engineering robust solutions for enterprise scale).
 - 🥅 Goal: To become a professional Software Developer.
-- ⚡ I'm always looking for a better version of myself.
-- 💻 Full Stack Developer in EY.
-- 👯 I love to hang out with friends and play games in my free time.
+- ⚡ Personal Goal: Bridging the gap between robust, enterprise-ready Java backend architectures and bleeding-edge local AI orchestration.
+  #### ⚙️ Core Engineering Focus
 
+* **Distributed Systems & Concurrency:** Designing transactionally safe backend engines using **Pessimistic Locking** to eliminate concurrent write race conditions, and implementing the **Saga Orchestrator Pattern** to automate compensating transactions (refund loops) across distributed networks.
+* **Advanced API Architecture:** Constructing robust, efficient API layers using traditional **RESTful Controllers** and modern **GraphQL Engines**—specializing in type-safe Schema Definitions, custom Query mapping, and non-blocking Resolver Logic to prevent over-fetching.
+* **Agentic AI & Multi-Agent Orchestration:** Moving beyond basic RAG workflows by using **Spring AI** to coordinate autonomous **Guardrail, Generator, and Evaluator agent loops** that dynamically critique, score, and self-correct LLM responses in real-time.
+* **Vector Memory & Data Ingestion:** Designing multi-tenant ingestion pipelines utilizing **Apache Tika** for text parsing, **TokenTextSplitters** for chunking, and **ChromaDB (Docker-hosted)** for indexing high-dimensional semantic vector embeddings (`nomic-embed-text`).
+
+<details>
+<summary><b>🔍 View Detailed Architectural Breakdown</b></summary>
+
+#### 🛡️ Distributed Systems & Concurrency Controls
+* **Pessimistic Locking:** Enforcing rigid database-level exclusive locks to preserve ACID compliance and prevent data anomalies during heavy concurrent updates.
+* **Saga Orchestration:** Coordinating distributed state machines with structured error handlers to roll back data changes gracefully across isolated microservices when a network timeout occurs.
+
+#### 🕸️ API Engineering (REST & GraphQL)
+* **GraphQL Resolvers:** Writing structured data-fetching logic to streamline backend performance and optimize payload distribution.
+* **Spring Web Paradigms:** Engineering robust API endpoints utilizing proper framework structures (e.g., handling complex multi-format payloads via `@RequestPart`).
+
+#### 🤖 Agentic AI & Memory Systems
+* **Anti-Hallucination Loops:** Building stateful evaluation cycles with bounded maximum-retry guardrails that programmatically audit model outputs against raw ground-truth text blocks before client delivery.
+* **Decoupled Data Ingestion:** Automating localized text-parsing with fixed-size overlapping text windows to preserve deep semantic boundaries during vector transformation.
+
+</details>
+
+---
 <br>
 
 <div align="center">
@@ -37,8 +60,6 @@
 </div>
 
 <br>
-
-<h4>Want to know me more?</h4>
 <h4>Connect with me:</h4>
 
 <a href="https://www.linkedin.com/in/aritra-basak-java-web-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -47,25 +68,11 @@
 <a href="https://www.instagram.com/builtbyaritra/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> 
 <a href="https://open.spotify.com/playlist/5rosPkkxL8R6vQXqFm3n8M?si=89c1731a378f4e4e&nd=1" target="_blank"> <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /> 
   
-
-
-
-
-
-
 <br>
-<div align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=aritra-basak&" alt="aritra-basak" /></div>
-<br>
-<div align="center">
-  <h4>Github Stats ⚡</h4>
-
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aritra-Basak&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-</div>
-
 <div align="center"><i>Random dev joke for you!</i><br> <img src="https://readme-jokes.vercel.app/api?hideBorder"alt="Jokes Card"/> </div>
 <br>
 
-<div align="center"> <img src="https://github.com/Aritra-Basak/Repo_items/blob/main/coding.gif" /> <br>
+
 
   <a href=# ><img src="contributions.svg"></a> </div>
 
